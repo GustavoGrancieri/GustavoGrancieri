@@ -21,12 +21,6 @@
 </p>
 
 <p align="center">
-  <b>Hardware & IoT</b><br>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
-
-<p align="center">
   <b>Gestão & Processos</b><br>
   <img src="https://img.shields.io/badge/BPM_&_Analise_de_Processos-FF6A00?style=for-the-badge" />
 </p>
