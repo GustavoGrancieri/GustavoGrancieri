@@ -5,8 +5,11 @@
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoGrancieri&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGrancieri&layout=compact&theme=dark" />
+
+[![Status do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoGrancieri&show_icons=true&theme=dark&v=1)](https://github.com/GustavoGrancieri)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGrancieri&layout=compact&theme=dark&v=1)](https://github.com/GustavoGrancieri)
+
 </div>
 
 <br><br>
