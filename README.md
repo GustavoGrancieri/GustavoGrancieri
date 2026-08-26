@@ -1,18 +1,8 @@
-<h1 align="center">Olá, eu sou o Gustavo!</h1>
+<h1 align="center">Olá, eu sou o Gustavo! 👋</h1>
 <p align="center">Desenvolvedor focado em <b>Back-end</b>, <b>Segurança da Informação</b> e <b>Automações</b>.</p>
 <p align="center">📍 Bauru - SP</p>
 
 <br>
-
-<div align="center">
-
-[![Status do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoGrancieri&show_icons=true&theme=dark&v=1)](https://github.com/GustavoGrancieri)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGrancieri&layout=compact&theme=dark&v=1)](https://github.com/GustavoGrancieri)
-
-</div>
-
-<br><br>
 
 <h3 align="center">Tecnologias, Ferramentas e Áreas de Atuação</h3>
 
